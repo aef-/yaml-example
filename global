@@ -1,0 +1,21 @@
+---
+errors:
+  no-sub: It doesn't look like you subscribe to The Times. If this isn't true, please
+    call us at {phoneNumber} [connect this digital account](https://myaccount.nytimes.com/link/homedelivery)
+    with your subscription.
+  error: We're sorry, but we're having a technical issue right now. If you continue
+    to have problems, please call Customer Care at {phoneNumber}.
+buttons:
+  get-started: "Get started"
+  go-home: "Go to home page"
+  return-article: "Return to article"
+info:
+  need-help: >
+    "If you need help or have questions, here’s how to speak with Customer Care:
+
+    [Chat online immediately](chat link) with a Customer Care agent.
+
+    Call us at {phoneNumber}. Our hours are 6 a.m. to midnight E.T. Monday - Friday, and 6 a.m. to 5 p.m. E.T. Saturday - Sunday."
+copy:
+  feedback-more: [Take a quick survey] to help us make improvements.
+  step-number: Step {1} of {2}
